@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-replica-test-connection",
+  "version": "1.0.0",
+  "description": "- purpose     - for take note how to impliment test connection mongoDb replica set container.     - include only impliment that don't have principle  .     - this is test set create mongoDb replica set container.",
+  "main": "test-connection.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chawintee/mongodb-replica-test-connection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chawintee/mongodb-replica-test-connection/issues"
+  },
+  "homepage": "https://github.com/chawintee/mongodb-replica-test-connection#readme",
+  "dependencies": {
+    "mongodb": "^4.8.1"
+  }
+}
